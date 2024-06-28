@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+.body{
+    margin:0%;
+    padding:0;
+}
+
+.caja1{
+    background-color: rgb(184, 149, 216);
+    height: 1150px;
+}
+.caja2{
+    background-color: rgb(151, 220, 230);
+     height: 150px;
+}
+.caja3{
+    background-color: rgb(216, 149, 196);
+    height: 1150px;
+}
+.cajaBase{
+    background-color: rgb(204, 216, 149);
+    height: 1000px;
+}
+.caja1, .caja2, .cajaDentro, .caja3 {
+    margin: 0;
+    padding: 0;
+}
